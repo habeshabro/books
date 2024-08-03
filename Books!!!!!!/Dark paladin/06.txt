@@ -1,0 +1,48 @@
+Chapter six
+
+     Nicholas was shocked by the sudden development and his mind just couldn't comprehend what had just happened.
+
+     All of the progress he had made, all of the hard work and time he had put into two and a half years of gaming to become the most powerful player in the world, vanished before his eyes.
+
+     He felt like the rug had been pulled from underneath his feet. He was in that one singular moment of peace before a storm, that one moment where the crowd goes silent before an execution, that one moment when you are in midair, time slows down as the ground rushes towards you and the only thing in your mind just before you inevitably hit the ground is "Oh Shit! This is going to hurt."
+
+     He was in that moment except multiplied by a million. After a fem minutes, he realized that he had not been breathing since the game had announced his doom so he quickly took a deep breath which calmed him down somewhat. 
+
+     Nicholas knew that he was screwed in the worst way but he finally scrounged up enough courage to see exactly how screwed he was.
+
+     "User command: Status."
+
+      When he said one of the few in-game codes that allowed a player to see their status, a semitransparent blue screen appeared in front of him, numerically showing him exactly how screwed he was.
+
+
+[window]
+[split]
+[tr] [td4] [b] STATUS [/b] [/td4] [/tr]
+[tr] [td1] [b] NAME [/b] [/td1] [td3] Nicholas [/td3] [/tr]
+[tr] [td1] [b] Profession [/b] [/td1] [td1] [b] N/A [/b] [/td1] [td1] [b] Race [/b] [/td1] [td1] Barbarian dwarf [/td1] [/tr]
+[tr] [td1] [b] LEVEL [/b] [/td1] [tds] 0 [/tds] [/tr]
+[/split]
+[split]
+[tr] [td1] [b] HP [/b] [/td1] [tds] 15/15 [/tds] [/tr]
+[tr] [td1] [b] SP [/b] [/td1] [tds] 15/15 [/tds] [/tr]
+[tr] [td1] [b] MP [/b] [/td1] [tds] N/A [/tds] [/tr]
+[/split]    
+[split]
+[tr] [td1] [b] STR [/b] [/td1] [tds] 15 [/tds] [/tr]
+[tr] [td1] [b] DEX [/b] [/td1] [tds] 15 [/tds] [/tr]
+[tr] [td1] [b] VIT [/b] [/td1] [tds] 15 [/tds] [/tr]
+[tr] [td1] [b] INT [/b] [/td1] [tds] 5 [/tds] [/tr]
+[tr] [td1] [b] WIS [/b] [/td1] [tds] 5 [/tds] [/tr]
+[/split]  
+[split]
+[tr] [td1] [b] TITLES [/b] [/td1] [tds] -Enemy of all living things.[/tds] [/tr]
+[tr] [td1] [b]                [/b] [/td1] [tds] -Champion of the cursed one[/tds] [/tr]
+[tr] [td1] [b] SKILLS [/b] [/td1] [tds] N/A [/tds] [/tr]
+[/split]
+[/window]
+
+     Just like he expected, his status was a numerical expression of exactly how screwed he was. He had the stats of a beginner and the enmity of all living things. As for the monsters waiting for him outside, anyone of them could kill him by simply sneezing at him a little too hard.
+
+     Nicholas was lamenting his loss when he suddenly heard a voice in his head.
+
+     <*yawn* that was a nice nap. Hmmm..are you the one who woke me up?>
